@@ -26,6 +26,8 @@ This plugin adds several useful tags, triggers and variables to the Tag Manager 
 **[Analytics]**
 
 - Matomo Analytics : Ecommerce
+- Matomo Analytics : Custom Dimension
+- Matomo Analytics : Search
 - Google Analytics 4
 - Google Analytics 4 : Event
 - Google Tag
@@ -48,6 +50,10 @@ This plugin adds several useful tags, triggers and variables to the Tag Manager 
 **[Openmost]**
 
 - DataLayer Synchronization
+
+**[Remarketing]**
+
+- Intercom
 
 **[Others]**
 

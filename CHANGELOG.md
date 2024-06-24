@@ -1,5 +1,13 @@
 ## Changelog
 
+## v5.0.9
+
+Add tag to Tag Manager
+
+- Matomo Analytics : Custom Dimension
+- Matomo Analytics : Search
+- Intercom
+
 ### v5.0.8
 
 Update documentation url
