@@ -4,7 +4,6 @@
 
 Add tag to Tag Manager
 
-- Matomo Analytics : Custom Dimension
 - Matomo Analytics : Search
 - Intercom
 
