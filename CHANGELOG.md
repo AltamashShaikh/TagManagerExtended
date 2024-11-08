@@ -1,5 +1,16 @@
 ## Changelog
 
+## v5.1.0
+
+Add tag to Tag Manager
+
+- Google Consent Mode (v2)
+
+Update tags :
+
+- Google Analytics 4 : Event
+- Axeptio (support Google Consent Mode v2)
+
 ## v5.0.9
 
 Add tag to Tag Manager
