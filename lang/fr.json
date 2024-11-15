@@ -120,7 +120,7 @@
     "AlertTagHelp": "",
     "AlertTagContentTitle": "Contenu qui serait affiché dans l'alerte",
     "AlertTagContentDescription": "Doit être du texte brut ou des chiffres.",
-    "GoogleTagTagName": "Balise Google",
+    "GoogleTagTagName": "Balise Google (gtag.js)",
     "GoogleTagTagDescription": "Balise universelle Google",
     "GoogleTagTagHelp": "",
     "GoogleTagTagIdTitle": "ID de balise",

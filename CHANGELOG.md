@@ -1,5 +1,9 @@
 ## Changelog
 
+## v5.1.3
+
+fix: Google Ads Conversion init gtag.js itself
+
 ## v5.1.2
 
 Update CustomHTML with overflow auto
