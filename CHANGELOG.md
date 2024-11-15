@@ -1,5 +1,9 @@
 ## Changelog
 
+## v5.1.1
+
+Update CustomHTML native tag to enhance textarea
+
 ## v5.1.0
 
 Add tag to Tag Manager
