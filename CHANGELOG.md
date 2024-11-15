@@ -1,5 +1,9 @@
 ## Changelog
 
+## v5.1.2
+
+Update CustomHTML with overflow auto
+
 ## v5.1.1
 
 Update CustomHTML native tag to enhance textarea
