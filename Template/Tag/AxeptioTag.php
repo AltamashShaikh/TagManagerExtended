@@ -8,8 +8,8 @@
 namespace Piwik\Plugins\TagManagerExtended\Template\Tag;
 
 use Piwik\Piwik;
-use Piwik\Settings\FieldConfig;
 use Piwik\Plugins\TagManager\Template\Tag\BaseTag;
+use Piwik\Settings\FieldConfig;
 use Piwik\Validators\NotEmpty;
 
 class AxeptioTag extends BaseTag
@@ -39,7 +39,7 @@ class AxeptioTag extends BaseTag
 
     public function getCategory()
     {
-        return Piwik::translate('TagManagerExtended_ConsentManagementPlatform');
+        return Piwik::translate('TagManager_ConsentManagementPlatform');
     }
 
     public function getIcon()
