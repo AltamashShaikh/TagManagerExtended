@@ -1,6 +1,6 @@
 ## Changelog
 
-## v5.2.0
+## v5.2.1
 
 update: Tag differencitation from Core imported tags
 
