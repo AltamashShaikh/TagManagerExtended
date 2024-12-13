@@ -1,5 +1,9 @@
 ## Changelog
 
+## v5.2.0
+
+update: Tag differencitation from Core imported tags
+
 ## v5.1.3
 
 fix: Google Ads Conversion init gtag.js itself
